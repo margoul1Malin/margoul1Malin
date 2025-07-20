@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @margoul1Malin
-- 👀 I’m interested in Web Developpement, SaaS, Sys & Networks
-- 🌱 I’m currently learning SysOps
-- 💞️ I’m looking to collaborate on everything, everywhere
-- 📫 How to reach me https://newportfolio-eta-seven.vercel.app/
-- 😄 Pronouns: He/Him/Her/Them/Dog/Bee/EvrythingElse...
-- ⚡ Fun fact: No.
+# Salut, moi c'est margoul1Malin 👋
 
-<!---
-margoul1Malin/margoul1Malin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis développeur web passionné et fondateur de **Oxelya**, une agence spécialisée dans le développement web sur-mesure, le SEO avancé, le design 3D, les services numériques et le conseil informatique.
+
+Chez Oxelya, nous créons des sites web ultra complets, adaptés à vos besoins, avec des CMS personnalisés pour garder un contrôle total sur votre projet.
+
+Découvrez-en plus sur notre savoir-faire et nos services sur [oxelya.com](https://www.oxelya.com).
+
+---
+
+### Compétences & Technologies
+- Développement web front-end & back-end  
+- SEO local et optimisation performance  
+- Conception de CMS sur-mesure  
+- Design 3D & UX/UI  
+- Conseil informatique et transformation digitale
+
+---
+
+### Contactez-moi  
+Pour toute demande ou collaboration, rendez-vous sur [notre page contact](https://www.oxelya.com/contact).
+
+---
+
+Merci de votre visite ! 🚀
