@@ -4,7 +4,7 @@ Je suis développeur web passionné et fondateur de **Oxelya**, une agence spéc
 
 Chez Oxelya, nous créons des sites web ultra complets, adaptés à vos besoins, avec des CMS personnalisés pour garder un contrôle total sur votre projet.
 
-Découvrez-en plus sur notre savoir-faire et nos services sur [oxelya.com](https://www.oxelya.com).
+Découvrez-en plus sur notre savoir-faire et nos services sur [Oxelya](https://www.oxelya.com).
 
 ---
 
