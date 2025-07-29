@@ -9,11 +9,13 @@ Découvrez-en plus sur notre savoir-faire et nos services sur [Oxelya](https://w
 ---
 
 ### Compétences & Technologies
-- Développement web front-end & back-end  
-- SEO local et optimisation performance  
-- Conception de CMS sur-mesure  
-- Design 3D & UX/UI  
+- Développement web front-end & back-end sur-mesure
+- Optimisation SEO & Performances
+- Conception de CMS & CRM  
+- Design 3D (Three.Js)
+- UI/UX Design
 - Conseil informatique et transformation digitale
+- Mentorat si nécessaire
 
 ---
 
